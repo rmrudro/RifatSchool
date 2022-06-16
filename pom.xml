@@ -8,11 +8,11 @@
 		<version>2.6.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.eazybytes</groupId>
+	<groupId>com.Rifat.Rifatschool</groupId>
 	<artifactId>example_21</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>example_21</name>
-	<description>Eazy School Web Application</description>
+	<description>Rifat School Web Application</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
